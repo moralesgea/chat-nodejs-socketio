@@ -1,0 +1,30 @@
+#messages{
+    width: 95%;
+    max-width: 400px;
+    height: 350px;
+    overflow-y: scroll;
+    border: 1px solid #eee;
+    box-shadow: 0px 0px 20px #ccc inset;
+    margin: 0 auto;
+}
+.message{
+    margin: 20px;
+    padding: 5px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    background: white;
+}
+h1{
+    text-align: center;
+}
+form{
+    width: 95%;
+    max-width: 400px;
+    margin: 0 auto;
+}
+#nickname, #text, #submit{
+    display: block;
+    width: 95%;
+    margin: 0 auto;
+    margin-top: 5px;
+}
